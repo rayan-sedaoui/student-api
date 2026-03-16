@@ -37,3 +37,5 @@ DELETE:
 
 Test de StudentapiApplication :
 
+
+https://github.com/user-attachments/assets/0bfb1953-e813-4c11-8db1-64227e7a9f83
