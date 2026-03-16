@@ -33,3 +33,7 @@ POST:
 DELETE:
 
 <img width="397" height="263" alt="Image" src="https://github.com/user-attachments/assets/07eb6f7e-cb88-4c98-8de6-480851309212" />
+
+
+Test de StudentapiApplication :
+
